@@ -1,0 +1,6 @@
+@Librarykuno_HostAddress = http://localhost:5274
+
+GET {{Librarykuno_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
