@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.deps.json
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\bin\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.dll
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\refint\LibraryManagement.Domain.dll
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\LibraryManagement.Domain.pdb
+C:\Users\Administrator\source\repos\Librarykuno\LibraryManagement.Domain\obj\Debug\net8.0\ref\LibraryManagement.Domain.dll

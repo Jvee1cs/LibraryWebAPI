@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Entities",
+    "\\Interfaces",
+    "\\ValueObjects"
+  ],
+  "SelectedNode": "\\Interfaces\\IBookRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
